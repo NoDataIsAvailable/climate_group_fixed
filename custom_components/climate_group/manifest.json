@@ -6,5 +6,5 @@
   "dependencies": [],
   "codeowners": ["@daenny"],
   "requirements": [],
-  "homeassistant": "2022.11.0"
+  "homeassistant": "2025.1.4"
 }
